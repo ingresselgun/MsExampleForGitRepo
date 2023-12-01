@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println(" Hello from Microservices ");
-
+        System.out.println("saagol elgun gite yukledim");
     }
 }
 //working directory-qirmizi
