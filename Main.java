@@ -6,3 +6,7 @@ public class Main {
     }
 }
 //working directory-qirmizi
+
+//staging area - yasil reng
+
+/// local repo -goy reng
