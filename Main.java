@@ -4,6 +4,7 @@ public class Main {
         System.out.println(" Hello from Microservices ");
         System.out.println("saagol elgun gite yukledim");
         System.out.println("elgun men git dersini tam basaaa dusdum");
+        System.out.println("added new funmction dolllar");
     }
 }
 //working directory-qirmizi
